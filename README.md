@@ -12,7 +12,7 @@
 
 ---
 
-### 📊 Git Stats (If GitHub tracking is turned on)
+### 📊 Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exusiaxa&show_icons=true&theme=tokyonight)
 
 ---
